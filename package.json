@@ -25,6 +25,8 @@
     "zod": "^3.25.76"
   },
   "devDependencies": {
-    "typescript": "~5.9.2"
+    "@types/node": "^26.6.3",
+    "typescript": "~5.9.2",
+    "vue-tsc": "^3.3.11"
   }
 }
